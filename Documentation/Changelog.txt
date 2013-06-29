@@ -1,0 +1,29 @@
+Changelogs Realease 1.1
+[Update] Dayzcode 1.7.6
+[NEW] FULL FEMALE GENDER SYSTEM WITH SKINS
+[Removed] M107
+[Removed] AS50
+[Added] Civilian Skins
+[Added] Police1_DZ, Police2_DZ
+[Change] New Hero Skin
+[Added] Coastguard_DZ (transportMaxWeapons = 5; transportMaxMagazines = 25; transportmaxbackpacks = 5)
+[Added] Gazelle_DZ (transportMaxWeapons = 3; transportMaxMagazines = 15; transportmaxbackpacks = 3)
+[Added] UH1H_BL (transportMaxWeapons = 5; transportMaxMagazines = 25; transportmaxbackpacks = 4)
+[Added] Buggy_DZ
+[Added] Steinschleuder
+[Added] Female Skins (3 Skins)
+[Added] Sniper Female Skin
+[Added] Soldier Skin
+[FIXED] Survivor Spawn gefixxt
+[FIXED] Spawnpositionen fixxt
+[FIXED] Zombie sensivity gefixxt
+[FIXED] SVD_Camo loot gefixxt
+[FIXED] M107 Mags Removed
+[FIXED] Lootbalancing
+[FIXED] Buggy_DZ Buggs
+[FIXED] Chernarus Wrecks removed
+[FIXED] Police Skin loot fixxed
+[FIXED] Steinschleuder DMG fixxed
+[FIXED] Zombies are now loot skins
+[FIXED] Car Crashes spawnen now Zombies
+[FIXED] Spawnrate of Zombies fixxed 
